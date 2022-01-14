@@ -70,7 +70,7 @@ else {
         </form>
     </caption>
     <a href="insert.php">insert</a>
-    <table width='100%' border= '1px solid black'>
+    <table style =" width:100%" border= '1px solid black'>
             <tr>
                 <th>id</th>
                 <th>name</th>
